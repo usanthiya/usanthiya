@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/MaI2ZZOmVnlY6/giphy.gif" width="400">
 </p>
