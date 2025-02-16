@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi, there I'm <a href="https://santhiya-u.netlify.app" target="_blank"> Santhiya U </a></h1>
-<h3 align="center">🚀 Full Stack Developer | JavaScript Lover 💻</h3>
+<h3 align="left">🚀 Full Stack Developer | JavaScript Lover 💻</h3>
 
 ---
 
@@ -33,6 +33,7 @@
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usanthiya/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhiyaudhya1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usanthiya)
 
 ---
