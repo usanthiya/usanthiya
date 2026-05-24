@@ -132,26 +132,6 @@ Currently exploring deeper into:
 
 ---
 
-# 🚀 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usanthiya&layout=compact&theme=radical" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=usanthiya&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=8" width="95%"/>
-
-</div>
-
----
-
 # 📬 Connect With Me
 
 <div align="center">
